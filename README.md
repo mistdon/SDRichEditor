@@ -1,2 +1,2 @@
 # SDRichEditor
-A simple rich editor by OC
+A simple *Rich Editor* by OC
